@@ -1,18 +1,18 @@
 # Graham P Heath
 
-Software developer and tinkerer working across AI tools, creative coding, and
-custom keyboards. Projects range from connecting AI assistants to lab notebooks
-to exploring SVG graphics and building tools for reading conversations.
+Software developer and tinkerer working across AI tools and creative coding.
+Projects range from connecting web interfaces to local AI agents to exploring
+SVG graphics and turning video into images.
 
 ## A few projects
 
-- [eLabFTW MCP](https://bitbucket.org/grahampheath/elabftw-mcp) — An unofficial MCP
-  server for working with eLabFTW experiments and attaching images.
+- [LLMProtocol (LLM Gateway)](https://bitbucket.org/grahampheath/llmprotocol) — A
+  local desktop gateway connecting web interfaces to agent and LLM command-line tools.
 - [Oh My Spritz](https://bitbucket.org/grahampheath/oh-my-spritz) — An opt-in
   speed reader for OMP conversations, with a dedicated macOS window.
 - [SVG Patterns](https://github.com/loadedsith/svgPatterns) — Browser experiments
   with SVG patterns and fills.
-- [ZMK keyboard configuration](https://github.com/loadedsith/zmk-config) — Custom
-  keyboard firmware configuration, keymaps, and OLED display integration.
+- [Slapse](https://bitbucket.org/grahampheath/slapse) — Turns video into images
+  by assembling slices from successive frames, mapping time across the image.
 
 More projects on [Bitbucket](https://bitbucket.org/grahampheath/).
