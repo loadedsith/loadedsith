@@ -1,5 +1,7 @@
 # Graham P Heath
 
+### [Website & portfolio → grahampheath.com](https://grahampheath.com)
+
 Software developer and tinkerer working across AI tools and creative coding.
 Projects range from connecting web interfaces to local AI agents to exploring
 SVG graphics and turning video into images.
